@@ -42,6 +42,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Lecture/01_java/chap12-collection-lecture-source&quot;,
@@ -61,21 +62,6 @@
     ]
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="JetRunConfigurationType">
-      <module name="chap12-collection-lecture-source" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <module name="chap12-collection-lecture-source" />
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -93,7 +79,7 @@
       <updated>1707735163939</updated>
       <workItem from="1707735164960" duration="118000" />
       <workItem from="1707746464490" duration="1795000" />
-      <workItem from="1707828832162" duration="30000" />
+      <workItem from="1707828832162" duration="1064000" />
     </task>
     <task id="LOCAL-00001" summary="20240212 commit">
       <option name="closed" value="true" />
@@ -103,7 +89,15 @@
       <option name="project" value="LOCAL" />
       <updated>1707735199770</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="20240213 commit">
+      <option name="closed" value="true" />
+      <created>1707828983190</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1707828983190</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="20240212 commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="20240212 commit" />
+    <MESSAGE value="20240213 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="20240213 commit" />
   </component>
 </project>
